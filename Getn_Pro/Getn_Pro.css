@@ -1,0 +1,25 @@
+h1 {
+	color: blue;
+	font-family: Georgia;
+	
+
+}
+
+h2 {
+	color: red;
+}
+
+img {
+	border: 10px solid black;
+	float:left;
+	border-radius: 5px;
+}
+
+p {
+	font-family: arial;
+
+}
+
+
+
+
